@@ -1,4 +1,4 @@
-# medication-harmonization-FHS-BAP
+# Medication-Harmonization-FHS-BAP
 Medication Harmonizaton Repository, FHS-BAP
 
 Program scripts to generate FHS-BAP harmonized medication dataset format
